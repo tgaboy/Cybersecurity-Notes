@@ -20,7 +20,7 @@ ruby lazys3.rb HackerOne
 
 Use the S3Scanner tool to enumerate open S3 buckets. What is the size (in bytes) of a publicly accessible S3 bucket owned by flaws.cloud?
 
-25621
+25320
 
 ```
 python3 ./s3scanner.py sites.txt
